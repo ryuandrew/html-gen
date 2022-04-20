@@ -1,0 +1,36 @@
+*{
+    font-family: impact;
+    text-transform: uppercase;
+    color: black;
+    letter-spacing: 1px;
+    text-shadow: 2px 2px 0 white,
+    -2px 2px 0 white,
+    2px -2px 0 white,
+    -2px 2px 0 white,
+    0px 2px 0 white,
+    2px 0px 0 white,
+    0px -2px 0 white,
+    -2px 0px 0 white,
+    2px 2px 5px white;
+}
+
+body{
+    background: salmon;
+    text-align: center;
+}
+
+h1{
+    font-size: 4rem;
+}
+
+p{
+    font-size: 1rem;
+}
+
+a{
+    font-size: 1rem;
+}
+
+/* a:hover {
+
+} */
